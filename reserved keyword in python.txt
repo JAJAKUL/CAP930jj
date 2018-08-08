@@ -1,0 +1,35 @@
+Keywords are the reserved words in Python. We cannot use a keyword as variable name,
+ function name or any other identifier.
+
+
+
+>>> import keyword
+>>> print(keyword.kwlist)
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def',
+ 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',
+ 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+>>> 
+
+
+Keywords are the reserved words in Python.
+
+We cannot use a keyword as variable name, function name or any other identifier. They are used to define the syntax and
+ structure of the Python language.
+
+In Python, keywords are case sensitive.
+
+There are 33 keywords in Python 3.3. This number can vary slightly in course of time.
+
+All the keywords except True, False and None are in lowercase and they must be written as it is. The list of all the
+ keywords are given below.
+
+Keywords in Python programming language
+
+
+False	class	finally	is	return
+None	continue	for	lambda	try
+True	def	from	nonlocal	while
+and	del	global	not	with
+as	elif	if	or	yield
+assert	else	import	pass	 
+break	except	in	raise	 
