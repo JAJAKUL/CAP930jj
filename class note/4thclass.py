@@ -74,4 +74,14 @@ print('10-08-2018'.split(sep='-'))
 print('10/08/2018'.split(sep='/'))
 print(','.join(['Eric','John']))
 
+print()
+#curly braces in string are placeholder#
+print('{} {}'.format('monty','python'))
+##
+print('{0} can be {1} {0}s'.format('monty','python'))
+print('{name} can be {food} '.format(name='monty',food='python'))
+print('{} squaared is {}'.format(5,5**2))
+print('{:10}'.format('hi'))
+
+
 
