@@ -18,4 +18,15 @@ print(name.lower())#lower cash is used for convert the lower case
 print(name.split())#string split in a word
 print(name.find('ja'))#find the index position
 
+#output
+"""
+concatenate the name Md Jajakul Islam
+malsI lukajaJ dM
+Jaj
+kul
+MD JAJAKUL ISLAM
+md jajakul islam
+['Md', 'Jajakul', 'Islam']
+5
 
+"""
